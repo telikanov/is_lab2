@@ -1,0 +1,9 @@
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IS2 v2\IS2 v2\bin\Debug\IS2 v2.exe.config
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IS2 v2\IS2 v2\bin\Debug\IS2 v2.exe
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IS2 v2\IS2 v2\bin\Debug\IS2 v2.pdb
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IS2 v2\IS2 v2\obj\Debug\IS2 v2.csprojResolveAssemblyReference.cache
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IS2 v2\IS2 v2\obj\Debug\IS2_v2.Form1.resources
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IS2 v2\IS2 v2\obj\Debug\IS2_v2.Properties.Resources.resources
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IS2 v2\IS2 v2\obj\Debug\IS2 v2.csproj.GenerateResource.Cache
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IS2 v2\IS2 v2\obj\Debug\IS2 v2.exe
+C:\Users\telik\OneDrive\Документы\Visual Studio 2015\Projects\IS2 v2\IS2 v2\obj\Debug\IS2 v2.pdb
